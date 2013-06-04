@@ -27,20 +27,20 @@
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeTypedefs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../NI_AB_PROJECTNAME/build/lvpng.llb</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../NI_AB_PROJECTNAME/build/i3-twitter-lvpng.llb</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{400CE997-87CC-40CF-9016-08FA797EE126}</Property>
-				<Property Name="Bld_userLogFile" Type="Path">../lvpng/build/log.txt</Property>
+				<Property Name="Bld_userLogFile" Type="Path">../i3-twitter-lvpng/build/log.txt</Property>
 				<Property Name="Bld_userLogFile.pathType" Type="Str">relativeToCommon</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
-				<Property Name="Destination[0].libraryName" Type="Str">lvpng.lvlib</Property>
-				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/build/lvpng.llb</Property>
+				<Property Name="Destination[0].libraryName" Type="Str">i3-twitter-lvpng.lvlib</Property>
+				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/build/i3-twitter-lvpng.llb</Property>
 				<Property Name="Destination[0].type" Type="Str">LLB</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/data</Property>
+				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/i3-twitter-lvpng.llb/build/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{7BEDFDBC-4C6B-47AB-A6DA-5EA06C8221E9}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{C71377D7-245F-42C5-AA2A-59261E79DB87}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/LV Image to PNG Data Wrapper.vi</Property>
